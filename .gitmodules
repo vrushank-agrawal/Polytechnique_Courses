@@ -19,3 +19,6 @@
 [submodule "CSE301"]
 	path = CSE301
 	url = https://github.com/vrushank-agrawal/CSE301.git
+[submodule "CSE201"]
+	path = CSE201
+	url = https://github.com/vrushank-agrawal/video_editor_BX23.git
