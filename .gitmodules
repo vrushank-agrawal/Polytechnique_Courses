@@ -1,0 +1,3 @@
+[submodule "Polytechnique_CoursesComputers (CSE)"]
+	path = Polytechnique_CoursesComputers (CSE)
+	url = git@github.com:vrushank-agrawal/CSE207.git
