@@ -1,3 +1,21 @@
 [submodule "Polytechnique_CoursesComputers (CSE)"]
 	path = Polytechnique_CoursesComputers (CSE)
 	url = git@github.com:vrushank-agrawal/CSE207.git
+[submodule "CSE207"]
+	path = CSE207
+	url = https://github.com/vrushank-agrawal/CSE207.git
+[submodule "CSE205"]
+	path = CSE205
+	url = https://github.com/vrushank-agrawal/CSE205.git
+[submodule "CSE204"]
+	path = CSE204
+	url = https://github.com/vrushank-agrawal/CSE204.git
+[submodule "CSE303"]
+	path = CSE303
+	url = https://github.com/vrushank-agrawal/CSE303.git
+[submodule "CSE302"]
+	path = CSE302
+	url = https://github.com/vrushank-agrawal/CSE302.git
+[submodule "CSE301"]
+	path = CSE301
+	url = https://github.com/vrushank-agrawal/CSE301.git
