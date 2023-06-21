@@ -31,3 +31,6 @@
 [submodule "CSE305"]
 	path = CSE305
 	url = https://github.com/vrushank-agrawal/CSE305
+[submodule "pacman"]
+	path = CSE104
+	url = https://github.com/nhat-vo/pacman
