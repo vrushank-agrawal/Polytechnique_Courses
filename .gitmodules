@@ -22,3 +22,12 @@
 [submodule "CSE201"]
 	path = CSE201
 	url = https://github.com/vrushank-agrawal/video_editor_BX23.git
+[submodule "Bachelor-Thesis-BTS"]
+	path = Bachelor-Thesis-BTS
+	url = https://github.com/vrushank-agrawal/Bachelor-Thesis-BTS
+[submodule "CSE306"]
+	path = CSE306
+	url = https://github.com/vrushank-agrawal/CSE306
+[submodule "CSE305"]
+	path = CSE305
+	url = https://github.com/vrushank-agrawal/CSE305
